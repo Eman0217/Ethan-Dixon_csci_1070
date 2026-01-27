@@ -3,7 +3,11 @@
 
 <h2>Who is.. Ethan</h2>
 
+<<<<<<< HEAD
 <p>I was born with ***septo optic displasia***,ADHD,sensory issues, and a pharmacy drug effects scroll length of little things that affect me on a daily basis/academic. I <h2>LOVE</h2> to collect retro stuff. originally retro video game collecting, I now like to collect vinyls, cassettes, games, cameras, and other little things from the past.</p>
+=======
+<p>I was born with septo optic displasia ,ADHD,sensory issues, and a pharmacy drug effects scroll length of little things that affect me on a daily basis/academic. I LOVE to collect retro stuff. originally retro video game collecting, I now like to collect vinyls, cassettes, games, cameras, and other little things from the past.</p>
+>>>>>>> f480b4466e6e93343641b7e764227d933831c0e5
 
 <p> I live with my two moms, (sister is off at U of I) and dog. I'm a commuter, with an recently growing interest in cars. I've always been interested in computers, ammature coding in Lua (for roblox game coding) and had one python intro to CS class in my sophmore year in high school, intro to game programming class. </p>
 
@@ -16,4 +20,8 @@
 
 despite such, I have not the most knowledge as I dipped my toes or forgot since its been 3 years since my intro to CS class.
 
+<<<<<<< HEAD
 **Anywho**, thats what I have for now.
+=======
+**Anywho**, thats what I have for now.
+>>>>>>> f480b4466e6e93343641b7e764227d933831c0e5
